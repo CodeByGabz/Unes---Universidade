@@ -1,0 +1,71 @@
+body{
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 600;
+}
+
+.header2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 110px;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.main2{
+    width:100%;
+    height: 110vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.conteudo2{
+    
+    width: 970px;
+
+}
+
+.conteudo2 h2{
+    font-size: 2rem;
+   
+    
+}
+
+.conteudo2 p{
+    font-size: 1.1rem;
+   
+    
+}
+
+
+.conteudo2{
+    
+    width: 970px;
+
+}
+
+.conteudo2-b h2{
+    font-size: 2rem;
+   
+    
+}
+
+.conteudo2-b p{
+    font-size: 1.1rem;
+   
+    
+}
+
+
+.rodape{
+    display: flex;
+    justify-content: center;
+}
+
+
